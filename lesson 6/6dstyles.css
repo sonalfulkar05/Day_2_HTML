@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.model {
+    width: 600px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0 0 25px 0;
+}
+
+p {
+    font-size: 28px;
+    font-weight: 400;
+    margin: 0;
+}
+
+a {
+    color: black;
+}
